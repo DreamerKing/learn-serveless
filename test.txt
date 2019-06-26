@@ -1,0 +1,4 @@
+export azureSubId='636ad805-cf36-4b05-90bc-752e74dd9f57'
+export azureServicePrincipalTenantId='0ba2e68b-15ba-49a6-8dab-38c13d5d8d02'
+export azureServicePrincipalClientId='http://azure-cli-2019-05-16-03-12-55'
+export azureServicePrincipalPassword='0ec071b5-1e54-40eb-bfbe-6709230b37c8'
